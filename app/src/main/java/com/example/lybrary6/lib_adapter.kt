@@ -14,7 +14,7 @@ class lib_adapter: RecyclerView.Adapter<lib_adapter.lib_holder> (){
 
     class lib_holder(item: View): RecyclerView.ViewHolder (item){
         val binding=LibReaderItemBinding.bind(item)
-
+            //first
         fun bind(data_lib: Pair<String, Int>)=with(binding){
             name.text=data_lib.first//data_lib.name
             Count.text= data_lib.second.toString()
