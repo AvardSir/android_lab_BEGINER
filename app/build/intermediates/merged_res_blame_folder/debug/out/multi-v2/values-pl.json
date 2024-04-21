@@ -4,6 +4,23 @@
             "outputFile": "com.example.lybrary6.app-mergeDebugResources-46:/values-pl/values-pl.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2734121a8ee792958606d7bf0b1f24f5\\transformed\\core-1.13.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,451,565,670,792",
+                        "endColumns": "96,101,97,98,113,104,121,100",
+                        "endOffsets": "147,249,347,446,560,665,787,888"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,44,45,46,113",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3576,3673,3775,3873,3972,4086,4191,9695",
+                        "endColumns": "96,101,97,98,113,104,121,100",
+                        "endOffsets": "3668,3770,3868,3967,4081,4186,4308,9791"
+                    }
+                },
+                {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\6b3ddd02f3bf0e97437aee856699301e\\transformed\\navigation-ui-2.7.7\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3",
@@ -35,23 +52,6 @@
                         "startOffsets": "436,551,653,761,847,954,1073,1152,1228,1319,1412,1507,1601,1702,1795,1890,1985,2076,2167,2249,2358,2458,2557,2666,2778,2889,3052,9612",
                         "endColumns": "114,101,107,85,106,118,78,75,90,92,94,93,100,92,94,94,90,90,81,108,99,98,108,111,110,162,95,82",
                         "endOffsets": "546,648,756,842,949,1068,1147,1223,1314,1407,1502,1596,1697,1790,1885,1980,2071,2162,2244,2353,2453,2552,2661,2773,2884,3047,3143,9690"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d1e4a685b1001794fbcfe4ee9c157a7e\\transformed\\core-1.12.0\\res\\values-pl\\values-pl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,254,352,451,565,670,792",
-                        "endColumns": "96,101,97,98,113,104,121,100",
-                        "endOffsets": "147,249,347,446,560,665,787,888"
-                    },
-                    "to": {
-                        "startLines": "40,41,42,43,44,45,46,113",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3576,3673,3775,3873,3972,4086,4191,9695",
-                        "endColumns": "96,101,97,98,113,104,121,100",
-                        "endOffsets": "3668,3770,3868,3967,4081,4186,4308,9791"
                     }
                 },
                 {

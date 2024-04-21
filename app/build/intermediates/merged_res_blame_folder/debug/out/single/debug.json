@@ -1,230 +1,162 @@
 [
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_content_activity_basic_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\content_activity_basic_views.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable___20_358282816.jpg.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/__20_358282816.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable__albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/_albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/layout_activity_basic_views_activity.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/layout/activity_basic_views_activity.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_basic_views_activity.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_basic_views_activity.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_content_basic_views2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\content_basic_views2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_gallery.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_gallery.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_notifications_black_24dp.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_home_black_24dp.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\side_nav_bar.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\xml\\backup_rules.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_menu_camera.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable__albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\_albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg"
+        "merged": "com.example.lybrary6.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/menu/bottom_nav_menu.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\menu\\bottom_nav_menu.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/layout_activity_main2.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/layout/activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable___5addebb59ae1c_1068739336.jpg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\__5addebb59ae1c_1068739336.jpg"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_app_bar_activity_navigation_drawer_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\app_bar_activity_navigation_drawer_views.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/menu_activity_navigation_drawer_views.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/menu/activity_navigation_drawer_views.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_main2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_main2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable__e7613d0245960e024bdf71a6b06e474_993580284.jpg.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/_e7613d0245960e024bdf71a6b06e474_993580284.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/menu_activity_navigation_drawer_views_drawer.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/menu/activity_navigation_drawer_views_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_basic_views2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_basic_views2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable___20_358282816.jpg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\__20_358282816.jpg"
+        "merged": "com.example.lybrary6.app-merged_res-48:/navigation_mobile_navigation2.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/navigation/mobile_navigation2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\navigation_nav_graph2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\navigation\\nav_graph2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\navigation\\nav_graph.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/navigation_nav_graph.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/layout_activity_recycler_view.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/layout/activity_recycler_view.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_first2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_first2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_notifications.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_notifications.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable___5addebb59ae1c_1068739336.jpg.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/__5addebb59ae1c_1068739336.jpg"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_second.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_second.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\navigation_mobile_navigation2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\navigation\\mobile_navigation2.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_content_activity_navigation_drawer_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\content_activity_navigation_drawer_views.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-anydpi\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_bottom_navigation_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_bottom_navigation_views.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_lib_reader_item.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\lib_reader_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_dashboard.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_dashboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-anydpi\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_menu_slideshow.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\menu_activity_navigation_drawer_views_drawer.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\menu\\activity_navigation_drawer_views_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_second2.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_second2.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_slideshow.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_slideshow.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_recycler_view.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_recycler_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\menu_activity_navigation_drawer_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\menu\\activity_navigation_drawer_views.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-anydpi/ic_launcher.xml"
     },
     {
         "merged": "com.example.lybrary6.app-merged_res-48:/layout_activity_basic_views2.xml.flat",
         "source": "com.example.lybrary6.app-main-50:/layout/activity_basic_views2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_menu_gallery.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_menu_gallery.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_navigation_drawer_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_navigation_drawer_views.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_fragment_first.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\fragment_first.xml"
+        "merged": "com.example.lybrary6.app-merged_res-48:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/navigation/nav_graph2.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/navigation/mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/layout_lib_reader_item.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/layout/lib_reader_item.xml"
     },
     {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\layout_nav_header_activity_navigation_drawer_views.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\layout\\nav_header_activity_navigation_drawer_views.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\navigation\\mobile_navigation.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable__e7613d0245960e024bdf71a6b06e474_993580284.jpg.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\_e7613d0245960e024bdf71a6b06e474_993580284.jpg"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\.gradle\\daemon\\8.2\\com.example.lybrary6.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.lybrary6.app-merged_res-48:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-50:/drawable/ic_home_black_24dp.xml"
     }
 ]
