@@ -59,4 +59,5 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="title_activity_basic_views2">basic_views2</string>
+    <string name="title_activity_db">Db</string>
 </resources>
