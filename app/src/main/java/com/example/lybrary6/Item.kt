@@ -11,5 +11,5 @@ data class Item (
     @ColumnInfo(name="name")
     var name: String,
     @ColumnInfo(name="Count_of_books")
-    var Count_of_books: Int
+    var Count_of_books: String
 )

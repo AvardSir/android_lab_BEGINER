@@ -3,12 +3,21 @@ package com.example.lybrary6
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.asLiveData
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import com.example.lybrary6.databinding.ActivityDbBinding
 
+
+
+
+import android.content.Intent
+
+
+import android.widget.Button
+import android.widget.TextView
 class Db : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
@@ -19,22 +28,35 @@ private lateinit var binding: ActivityDbBinding
 
      binding = ActivityDbBinding.inflate(layoutInflater)
      setContentView(binding.root)
+        val db=mainDb.getDb(this)
+        db.getDao().getAlldata().asLiveData().observe(this){
 
-        setSupportActionBar(binding.toolbar)
 
-        val navController = findNavController(R.id.nav_host_fragment_content_db)
-        appBarConfiguration = AppBarConfiguration(navController.graph)
-        setupActionBarWithNavController(navController, appBarConfiguration)
+            MyApplication.globalVariable=mutableListOf<Pair<String,  Int>>(Pair("Жорж Жак Дантон", 2))
+            it.forEach {
 
-        binding.fab.setOnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                    .setAction("Action", null).show()
+                MyApplication.globalVariable.add(Pair(it.name, it.Count_of_books.toInt()))
+            }
+
+
         }
+    binding.idsave.setOnClickListener{
+        val item=Item(null,
+            binding.Name.text.toString(),
+            binding.CountInput.text.toString()
+        )
+        Thread{
+            db.getDao().insertItem(item)
+        }.start()
     }
 
-    override fun onSupportNavigateUp(): Boolean {
-    val navController = findNavController(R.id.nav_host_fragment_content_db)
-    return navController.navigateUp(appBarConfiguration)
-            || super.onSupportNavigateUp()
+
+
+
+
+
     }
+
+
+
 }

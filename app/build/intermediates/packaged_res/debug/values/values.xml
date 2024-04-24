@@ -60,6 +60,7 @@
     <string name="title_activity_basic_views">activity_basic_views_activity</string>
     <string name="title_activity_basic_views2">basic_views2</string>
     <string name="title_activity_bottom_navigation_views">activity_bottom_navigation_views</string>
+    <string name="title_activity_db">Db</string>
     <string name="title_activity_navigation_drawer_views">activity_navigation_drawer_views</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_home">Home</string>

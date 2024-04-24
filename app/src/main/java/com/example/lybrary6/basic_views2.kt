@@ -59,6 +59,13 @@ class basic_views2 : AppCompatActivity() {
         }
 
 
+
+        val to_bd = findViewById<Button>(R.id.to_bd)
+        to_bd.setOnClickListener {
+            val intent = Intent(this, Db::class.java)
+            startActivity(intent)
+        }
+
         val button_right = findViewById<Button>(R.id.button_right)
         button_right.setOnClickListener {
             if (i+1<MyApplication.globalVariable.size){
