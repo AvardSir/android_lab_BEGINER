@@ -10,6 +10,11 @@
     "deepLinks": []
   },
   {
+    "name": "mobile_navigation3",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
     "name": "nav_graph",
     "navigationXmlIds": [],
     "deepLinks": []

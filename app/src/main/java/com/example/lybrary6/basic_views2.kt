@@ -4,14 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
-import androidx.appcompat.widget.Toolbar
-import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
-import androidx.navigation.ui.navigateUp
-import androidx.navigation.ui.setupActionBarWithNavController
-import androidx.viewbinding.ViewBinding
 import com.example.lybrary6.databinding.ActivityBasicViews2Binding
 
 
@@ -59,6 +53,13 @@ class basic_views2 : AppCompatActivity() {
         }
 
 
+
+
+        val to_bok = findViewById<Button>(R.id.button4)
+        to_bok.setOnClickListener {
+            val intent = Intent(this, Bokovoe::class.java)
+            startActivity(intent)
+        }
 
         val to_bd = findViewById<Button>(R.id.to_bd)
         to_bd.setOnClickListener {

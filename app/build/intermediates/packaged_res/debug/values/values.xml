@@ -7,6 +7,7 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="nav_header_height">176dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <item name="to_book" type="id">to_book</item>
     <string name="action_settings">Settings</string>
     <string name="app_name">lybrary6</string>
     <string name="first_fragment_label">First Fragment</string>
@@ -59,16 +60,23 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="title_activity_basic_views">activity_basic_views_activity</string>
     <string name="title_activity_basic_views2">basic_views2</string>
+    <string name="title_activity_bokovoe">Bokovoe</string>
     <string name="title_activity_bottom_navigation_views">activity_bottom_navigation_views</string>
     <string name="title_activity_db">Db</string>
     <string name="title_activity_navigation_drawer_views">activity_navigation_drawer_views</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_home">Home</string>
     <string name="title_notifications">Notifications</string>
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="Base.Theme.Lybrary6" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style>
+    <style name="NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
     <style name="Theme.Lybrary6" parent="Base.Theme.Lybrary6"/>
     <style name="Theme.Lybrary6.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="Theme.Lybrary6.NoActionBar">
