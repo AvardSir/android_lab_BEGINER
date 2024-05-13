@@ -57,18 +57,25 @@ public final class ActivityBasicViews2Binding implements ViewBinding {
   @NonNull
   public final TextView textViewName;
 
+<<<<<<< HEAD
   @NonNull
   public final Button toBd;
 
   @NonNull
   public final Button toBook;
 
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
   private ActivityBasicViews2Binding(@NonNull CoordinatorLayout rootView,
       @NonNull Button RecyclerTo, @NonNull Button button3, @NonNull Button button8,
       @NonNull Button buttonLeft, @NonNull Button buttonMinus, @NonNull Button buttonPlus,
       @NonNull Button buttonRight, @NonNull ConstraintLayout constraintLayout2,
       @NonNull TextView textView6, @NonNull TextView textView7, @NonNull TextView textViewCount,
+<<<<<<< HEAD
       @NonNull TextView textViewName, @NonNull Button toBd, @NonNull Button toBook) {
+=======
+      @NonNull TextView textViewName) {
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
     this.rootView = rootView;
     this.RecyclerTo = RecyclerTo;
     this.button3 = button3;
@@ -82,8 +89,11 @@ public final class ActivityBasicViews2Binding implements ViewBinding {
     this.textView7 = textView7;
     this.textViewCount = textViewCount;
     this.textViewName = textViewName;
+<<<<<<< HEAD
     this.toBd = toBd;
     this.toBook = toBook;
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
   }
 
   @Override
@@ -185,6 +195,7 @@ public final class ActivityBasicViews2Binding implements ViewBinding {
         break missingId;
       }
 
+<<<<<<< HEAD
       id = R.id.to_bd;
       Button toBd = ViewBindings.findChildViewById(rootView, id);
       if (toBd == null) {
@@ -200,6 +211,11 @@ public final class ActivityBasicViews2Binding implements ViewBinding {
       return new ActivityBasicViews2Binding((CoordinatorLayout) rootView, RecyclerTo, button3,
           button8, buttonLeft, buttonMinus, buttonPlus, buttonRight, constraintLayout2, textView6,
           textView7, textViewCount, textViewName, toBd, toBook);
+=======
+      return new ActivityBasicViews2Binding((CoordinatorLayout) rootView, RecyclerTo, button3,
+          button8, buttonLeft, buttonMinus, buttonPlus, buttonRight, constraintLayout2, textView6,
+          textView7, textViewCount, textViewName);
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

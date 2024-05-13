@@ -27,6 +27,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lybrary6" >
         <activity
+<<<<<<< HEAD
             android:name="com.example.lybrary6.Bokovoe"
             android:exported="false"
             android:label="@string/title_activity_bokovoe"
@@ -37,6 +38,8 @@
             android:label="@string/title_activity_db"
             android:theme="@style/Theme.Lybrary6" />
         <activity
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
             android:name="com.example.lybrary6.RecyclerView"
             android:exported="false" />
         <activity

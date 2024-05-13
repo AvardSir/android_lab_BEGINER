@@ -3145,13 +3145,11 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id Count
-id Count_input
 id FUNCTION
 id First2Fragment
 id FirstFragment
 id META
 id NO_DEBUG
-id Name
 id Recycler_to
 id SHIFT
 id SHOW_ALL
@@ -3260,14 +3258,12 @@ id button8
 id buttonPanel
 id button_add
 id button_add_book
-id button_first
 id button_give_back_book
 id button_home
 id button_left
 id button_minus
 id button_plus
 id button_right
-id button_second
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3293,7 +3289,6 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
-id constraintLayout
 id constraintLayout2
 id container
 id content
@@ -3391,7 +3386,6 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
-id idsave
 id ifRoom
 id ignore
 id ignoreRequest
@@ -3488,11 +3482,13 @@ id nav_controller_view_tag
 id nav_gallery
 id nav_graph
 id nav_graph2
-id nav_graph3
 id nav_home
 id nav_host_fragment_container
+<<<<<<< HEAD
 id nav_host_fragment_content_bokovoe
 id nav_host_fragment_content_db
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 id nav_slideshow
 id nav_view
 id navigation_bar_item_active_indicator_view
@@ -3652,7 +3648,6 @@ id textStart
 id textTop
 id textView
 id textView2
-id textView3
 id textView6
 id textView7
 id textView_count
@@ -3671,14 +3666,15 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id textview_first
-id textview_second
 id time
 id title
 id titleDividerNoCustom
 id title_template
+<<<<<<< HEAD
 id to_bd
 id to_book
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 id toggle
 id toolbar
 id top
@@ -3832,6 +3828,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_basic_views2
 layout activity_basic_views_activity
+<<<<<<< HEAD
 layout activity_bokovoe
 layout activity_db
 layout activity_main
@@ -3840,6 +3837,11 @@ layout activity_recycler_view
 layout app_bar_bokovoe
 layout content_bokovoe
 layout content_db
+=======
+layout activity_main
+layout activity_main2
+layout activity_recycler_view
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3856,11 +3858,14 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+<<<<<<< HEAD
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
 layout fragment_second
 layout fragment_slideshow
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout lib_reader_item
@@ -3938,7 +3943,6 @@ navigation mobile_navigation2
 navigation mobile_navigation3
 navigation nav_graph
 navigation nav_graph2
-navigation nav_graph3
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -4128,7 +4132,6 @@ string title_activity_basic_views
 string title_activity_basic_views2
 string title_activity_bokovoe
 string title_activity_bottom_navigation_views
-string title_activity_db
 string title_activity_navigation_drawer_views
 string title_dashboard
 string title_home

@@ -125,6 +125,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
+<<<<<<< HEAD
         <Button
             android:id="@+id/to_bd"
             android:layout_width="wrap_content"
@@ -143,6 +144,8 @@
             tools:layout_editor_absoluteX="271dp"
             tools:layout_editor_absoluteY="555dp" />
 
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

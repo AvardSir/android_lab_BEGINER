@@ -21,10 +21,8 @@ drawable ic_menu_slideshow
 drawable ic_notifications_black_24dp
 drawable side_nav_bar
 id Count
-id Count_input
 id First2Fragment
 id FirstFragment
-id Name
 id Recycler_to
 id Second2Fragment
 id SecondFragment
@@ -41,21 +39,17 @@ id button4
 id button8
 id button_add
 id button_add_book
-id button_first
 id button_give_back_book
 id button_home
 id button_left
 id button_minus
 id button_plus
 id button_right
-id button_second
-id constraintLayout
 id constraintLayout2
 id drawer_layout
 id editTextText
 id editTextText2
 id fab
-id idsave
 id imageView
 id imageView2
 id mobile_navigation
@@ -65,10 +59,12 @@ id name
 id nav_gallery
 id nav_graph
 id nav_graph2
-id nav_graph3
 id nav_home
+<<<<<<< HEAD
 id nav_host_fragment_content_bokovoe
 id nav_host_fragment_content_db
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 id nav_slideshow
 id nav_view
 id navigation_dashboard
@@ -77,13 +73,13 @@ id navigation_notifications
 id rcView
 id textView
 id textView2
-id textView3
 id textView6
 id textView7
 id textView_count
 id textView_count_of_books
 id textView_name
 id textView_name_reader
+<<<<<<< HEAD
 id text_gallery
 id text_home
 id text_slideshow
@@ -107,6 +103,13 @@ layout fragment_gallery
 layout fragment_home
 layout fragment_second
 layout fragment_slideshow
+=======
+layout activity_basic_views2
+layout activity_basic_views_activity
+layout activity_main
+layout activity_main2
+layout activity_recycler_view
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 layout lib_reader_item
 layout nav_header_bokovoe
 menu activity_main_drawer
@@ -121,7 +124,6 @@ navigation mobile_navigation2
 navigation mobile_navigation3
 navigation nav_graph
 navigation nav_graph2
-navigation nav_graph3
 string action_settings
 string app_name
 string first_fragment_label
@@ -141,7 +143,6 @@ string title_activity_basic_views
 string title_activity_basic_views2
 string title_activity_bokovoe
 string title_activity_bottom_navigation_views
-string title_activity_db
 string title_activity_navigation_drawer_views
 string title_dashboard
 string title_home

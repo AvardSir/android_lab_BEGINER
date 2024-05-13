@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Wed Apr 24 23:09:55 MSK 2024
+=======
+#Sun Apr 21 19:21:08 MSK 2024
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 base.0=C\:\\Users\\user\\AndroidStudioProjects\\lybrary6\\android_lab_BEGINER\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\user\\AndroidStudioProjects\\lybrary6\\android_lab_BEGINER\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\user\\AndroidStudioProjects\\lybrary6\\android_lab_BEGINER\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex

@@ -53,6 +53,7 @@ class basic_views2 : AppCompatActivity() {
         }
 
 
+<<<<<<< HEAD
 
 
         val to_bok = findViewById<Button>(R.id.button4)
@@ -67,6 +68,8 @@ class basic_views2 : AppCompatActivity() {
             startActivity(intent)
         }
 
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
         val button_right = findViewById<Button>(R.id.button_right)
         button_right.setOnClickListener {
             if (i+1<MyApplication.globalVariable.size){

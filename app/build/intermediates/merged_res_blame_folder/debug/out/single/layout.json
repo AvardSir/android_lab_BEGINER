@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_basic_views2.xml",
         "source": "com.example.lybrary6.app-main-54:/layout/activity_basic_views2.xml"
     },
@@ -54,16 +55,35 @@
     {
         "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/lib_reader_item.xml",
         "source": "com.example.lybrary6.app-main-54:/layout/lib_reader_item.xml"
+=======
+        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_recycler_view.xml",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_recycler_view.xml"
     },
     {
-        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_db.xml",
-        "source": "com.example.lybrary6.app-main-54:/layout/activity_db.xml"
+        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_basic_views2.xml",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_basic_views2.xml"
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
     },
     {
+        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_basic_views_activity.xml",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_basic_views_activity.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/content_bokovoe.xml",
         "source": "com.example.lybrary6.app-main-54:/layout/content_bokovoe.xml"
     },
     {
+=======
+        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/lib_reader_item.xml",
+        "source": "com.example.lybrary6.app-main-54:/layout/lib_reader_item.xml"
+    },
+    {
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
         "merged": "com.example.lybrary6.app-mergeDebugResources-51:/layout/activity_main2.xml",
         "source": "com.example.lybrary6.app-main-54:/layout/activity_main2.xml"
     }
