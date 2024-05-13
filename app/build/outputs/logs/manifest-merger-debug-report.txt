@@ -1,15 +1,21 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-61:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-61:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-61:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-61:12
 =======
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-51:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-51:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-51:12
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:1-51:12
+<<<<<<< HEAD
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
+=======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\user\.gradle\caches\transforms-3\d64262d30dfd028fefb0db007e75e64f\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\user\.gradle\caches\transforms-3\72616146986b29e55bbb83e3d42d6d2f\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
@@ -86,8 +92,13 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\user\.gradle\caches\transforms
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:2:11-69
 application
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-59:19
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-59:19
+=======
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
+INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
 INJECTED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
@@ -134,6 +145,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\user\.gradle\cache
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:7:9-65
+<<<<<<< HEAD
 <<<<<<< HEAD
 activity#com.example.lybrary6.Bokovoe
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:15:9-19:50
@@ -183,6 +195,21 @@ ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:19:13-42
 activity#com.example.lybrary6.basic_views2
+=======
+activity#com.example.lybrary6.RecyclerView
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.lybrary6.MainActivity2
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:19:13-42
+activity#com.example.lybrary6.basic_views2
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:21:9-25:53
 	android:label
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:24:13-64
@@ -204,11 +231,15 @@ ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:27:13-61
 activity#com.example.lybrary6.activity_bottom_navigation_views
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:31:9-34:78
+<<<<<<< HEAD
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
+=======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 	android:label
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:34:13-64
 	android:exported
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:33:13-37
+<<<<<<< HEAD
 <<<<<<< HEAD
 	android:theme
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:35:13-50
@@ -258,6 +289,36 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:56:17-77
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:56:27-74
+=======
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:32:13-61
+activity#com.example.lybrary6.activity_basic_views_activity
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:35:9-39:53
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:38:13-63
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:37:13-37
+	android:theme
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:39:13-50
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.example.lybrary6.MainActivity
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:46:27-74
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 	android:name
 		ADDED from C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:32:13-61

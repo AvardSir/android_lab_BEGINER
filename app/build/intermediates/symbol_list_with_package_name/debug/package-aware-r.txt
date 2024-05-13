@@ -3485,8 +3485,11 @@ id nav_graph2
 id nav_home
 id nav_host_fragment_container
 <<<<<<< HEAD
+<<<<<<< HEAD
 id nav_host_fragment_content_bokovoe
 id nav_host_fragment_content_db
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 id nav_slideshow
@@ -3671,8 +3674,11 @@ id title
 id titleDividerNoCustom
 id title_template
 <<<<<<< HEAD
+<<<<<<< HEAD
 id to_bd
 id to_book
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 id toggle
@@ -3829,6 +3835,7 @@ layout abc_tooltip
 layout activity_basic_views2
 layout activity_basic_views_activity
 <<<<<<< HEAD
+<<<<<<< HEAD
 layout activity_bokovoe
 layout activity_db
 layout activity_main
@@ -3837,6 +3844,11 @@ layout activity_recycler_view
 layout app_bar_bokovoe
 layout content_bokovoe
 layout content_db
+=======
+layout activity_main
+layout activity_main2
+layout activity_recycler_view
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 layout activity_main
 layout activity_main2
@@ -3859,11 +3871,14 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 <<<<<<< HEAD
+<<<<<<< HEAD
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
 layout fragment_second
 layout fragment_slideshow
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 layout ime_base_split_test_activity

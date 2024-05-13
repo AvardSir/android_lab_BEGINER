@@ -21,7 +21,11 @@
 16
 17    <application
 <<<<<<< HEAD
+<<<<<<< HEAD
 17-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-59:19
+=======
+17-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 =======
 17-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:5:5-49:19
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
@@ -46,6 +50,7 @@
 28        android:theme="@style/Theme.Lybrary6" >
 28-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:13:9-46
 29        <activity
+<<<<<<< HEAD
 <<<<<<< HEAD
 29-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:15:9-19:50
 30            android:name="com.example.lybrary6.Bokovoe"
@@ -225,6 +230,8 @@
 121
 122</manifest>
 =======
+=======
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
 29-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:15:9-17:40
 30            android:name="com.example.lybrary6.RecyclerView"
 30-->C:\Users\user\AndroidStudioProjects\lybrary6\android_lab_BEGINER\app\src\main\AndroidManifest.xml:16:13-41
@@ -382,4 +389,7 @@
 110    </application>
 111
 112</manifest>
+<<<<<<< HEAD
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
+=======
 >>>>>>> parent of 918fc9c (BASE OF DATA WORKS)

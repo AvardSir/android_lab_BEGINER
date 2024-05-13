@@ -1,6 +1,7 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_menu_camera.xml.flat",
         "source": "com.example.lybrary6.app-main-54:/drawable/ic_menu_camera.xml"
     },
@@ -357,6 +358,166 @@
         "merged": "com.example.lybrary6.app-merged_res-52:/navigation_nav_graph3.xml.flat",
         "source": "com.example.lybrary6.app-main-54:/navigation/nav_graph3.xml"
 =======
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_lib_reader_item.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/lib_reader_item.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_activity_main2.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/navigation/mobile_navigation.xml"
+>>>>>>> parent of 918fc9c (BASE OF DATA WORKS)
+=======
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable__e7613d0245960e024bdf71a6b06e474_993580284.jpg.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/_e7613d0245960e024bdf71a6b06e474_993580284.jpg"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_activity_recycler_view.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_recycler_view.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/navigation_mobile_navigation2.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/navigation/mobile_navigation2.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable___5addebb59ae1c_1068739336.jpg.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/__5addebb59ae1c_1068739336.jpg"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_activity_basic_views_activity.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_basic_views_activity.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable__albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/_albi__cath_drale_sainte_c_cile___tr_sor___portrait_du_pape_sixte_v___palissyim81001477.jpg"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/layout_activity_basic_views2.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/layout/activity_basic_views2.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/menu_activity_navigation_drawer_views.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/menu/activity_navigation_drawer_views.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable___20_358282816.jpg.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/__20_358282816.jpg"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/menu_activity_navigation_drawer_views_drawer.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/menu/activity_navigation_drawer_views_drawer.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lybrary6.app-merged_res-52:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.lybrary6.app-main-54:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
         "merged": "com.example.lybrary6.app-merged_res-52:/layout_lib_reader_item.xml.flat",
         "source": "com.example.lybrary6.app-main-54:/layout/lib_reader_item.xml"
     },
